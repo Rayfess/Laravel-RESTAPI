@@ -8,7 +8,7 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dengan RESTAPI dasar
 3. Postman Desktop (API Tester)
 
 ## Penggunaan
-- Pastikan Untuk Sudah Menginstall NodeJS, Composer, Laragon, dan Postman di PC Anda
+* Pastikan Untuk Sudah Menginstall NodeJS, Composer, Laragon, dan Postman di PC Anda
   1. Buat Direktori Project Anda
   ```bash
   laravel new (namaProject)
