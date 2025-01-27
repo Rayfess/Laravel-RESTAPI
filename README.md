@@ -1,11 +1,15 @@
 # Simple Laravel RESTAPI
 
-Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dengan RESTAPI dasar
+Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dan penggunaan RESTAPI dasar
 
 ## Alat Tempur Yang Saya Gunakan
-1. Laravel Versi 11
-2. Laragon (DBMS)
-3. Postman Desktop (API Tester)
+1. Jaringan Internet
+2. Laravel Versi 11
+3. Laragon (DBMS)
+4. Postman Desktop (API Tester)
+5. Visual Studio Code (Text Editor)
+6. Chrome (Browser)
+7. TablePlus *Opsional 
 
 ## Penggunaan
 * Pastikan Untuk Sudah Menginstall NodeJS, Composer, Laragon, dan Postman di PC Anda
@@ -13,7 +17,7 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dengan RESTAPI dasar
   Buat Direktori Project Anda
   
   ```bash
-  laravel new (namaProject)
+  laravel new namaProject
   ```
   
   Lakukan Inisialisasi NPM Untuk Laravel
