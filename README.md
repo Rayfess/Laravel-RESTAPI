@@ -1,15 +1,15 @@
-## Simple Laravel RESTAPI
+# Simple Laravel RESTAPI
 
 Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dengan RESTAPI dasar
 
 ## Alat Tempur Yang Saya Gunakan
-- Laravel Versi 11
-- Laragon Versi 6.0
-- Postman Desktop 
+1. Laravel Versi 11
+2. Laragon Versi 6.0
+3. Postman Desktop 
 
-## Partners
+## Penggunaan
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+
 
 ### Premium Partners
 
