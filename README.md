@@ -4,11 +4,22 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dengan RESTAPI dasar
 
 ## Alat Tempur Yang Saya Gunakan
 1. Laravel Versi 11
-2. Laragon Versi 6.0
-3. Postman Desktop 
+2. Laragon (DBMS)
+3. Postman Desktop (API Tester)
 
 ## Penggunaan
-
+- Pastikan Untuk Sudah Menginstall NodeJS, Composer, Laragon, dan Postman di PC Anda
+  1. Buat Direktori Project Anda
+  ```bash
+  laravel new (namaProject)
+  ```
+  2. Lakukan Inisialisasi NPM Untuk Laravel
+  ```bash
+  npm init
+  npm install
+  ```
+  3. Untuk Menjalankan
+  
 
 
 ### Premium Partners
