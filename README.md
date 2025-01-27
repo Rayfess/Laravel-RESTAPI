@@ -9,6 +9,7 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dengan RESTAPI dasar
 
 ## Penggunaan
 * Pastikan Untuk Sudah Menginstall NodeJS, Composer, Laragon, dan Postman di PC Anda
+  
   1. Buat Direktori Project Anda
   ```bash
   laravel new (namaProject)
