@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Laravel-RESTAPI
-Membuat RESTAPI menggunakan Laravel 11 dengan library sanctum
-=======
 # Simple Laravel RESTAPI
 
 Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dan penggunaan RESTAPI dasar
@@ -44,4 +40,3 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dan penggunaan RESTA
     ```bash
     php artisan run dev
     ```
->>>>>>> origin/master
