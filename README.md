@@ -38,5 +38,5 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dan penggunaan RESTA
     Check Hasil
 
     ```bash
-    php artisan run dev
+    php artisan serve
     ```
