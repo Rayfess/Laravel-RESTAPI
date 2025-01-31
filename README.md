@@ -2,7 +2,7 @@
 
 Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dan penggunaan RESTAPI dasar
 
-## Alat Tempur Yang Saya Gunakan
+## Alat Yang Saya Gunakan
 
 1. Jaringan Internet
 2. Laravel Versi 11
@@ -19,7 +19,7 @@ Repositori ini dibuat sebagai bahan pembelajaran Laravel 11 dan penggunaan RESTA
     Buat Direktori Project Anda
 
     ```bash
-    laravel new namaProject
+    
     ```
 
     Lakukan Inisialisasi NPM Untuk Laravel
